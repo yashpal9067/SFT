@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Write a short motivational message for a student preparing for exams.",
+    "input": "",
+    "output": "Stay focused, believe in your preparation, and remember that every step forward counts. You've got this — keep working hard, and success will follow."
+  },
+  {
+    "instruction": "Explain why good sleep is important for learning.",
+    "input": "",
+    "output": "Good sleep helps the brain consolidate memories, supports concentration, and recharges energy. When you sleep well, your learning becomes much more effective."
+  },
+  {
+    "instruction": "Give a friendly reminder to take frequent breaks during study sessions.",
+    "input": "",
+    "output": "Taking short breaks helps your mind stay fresh, reduces stress, and keeps you productive. Step away for a few minutes, stretch, and return to studying with renewed focus."
+  }
+]

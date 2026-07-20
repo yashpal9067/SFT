@@ -6,7 +6,7 @@ outputs_full_alpaca/
 *.safetensors
 
 # Large datasets
-data/
+data/__pycache__
 
 # Python cache and compiled files
 __pycache__/
